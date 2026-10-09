@@ -1,6 +1,6 @@
 cask "tokensight" do
-  version "1.4.1"
-  sha256 "ca23f42fd66f42429c2fcb2a5f0fa8fe6e251b1250b66be546713f072468ff27"
+  version "1.4.2"
+  sha256 "c0760db2aefdcb5bbf63f550db636fd29e590ef66c7dd4cf1b7873de89ff8eb0"
 
   url "https://tokensight.app/download/TokenSight-#{version}.dmg"
   name "TokenSight"
